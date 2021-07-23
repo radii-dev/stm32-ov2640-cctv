@@ -1,0 +1,3 @@
+[submodule "Ext"]
+	path = Ext
+	url = https://github.com/nimaltd/ESP8266.git
